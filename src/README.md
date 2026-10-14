@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/AkMirrorEdge.png" alt="AkMirrorEdge" />
-</p>
-
 # AkMirrorServer
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.41.6-02569B?logo=flutter&logoColor=white)
